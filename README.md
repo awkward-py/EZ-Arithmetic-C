@@ -44,5 +44,3 @@ Product: 50.00
 Quotient: 2.00
 
 ```
-
-Replace placeholders like `your-username` with your actual GitHub username. You can add more sections, such as "License," "Acknowledgments," or "Issues," based on the needs of your project. Adjust the content according to your preferences and the specific details of your program.
